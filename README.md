@@ -18,6 +18,9 @@ When you run the application, it presents a console menu allowing you to dynamic
 8. **Inverted Half Pyramid:** A downward-facing right triangle made of stars.
 9. **Inverted Half Pyramid (180° Rotated):** A right-aligned half pyramid utilizing leading empty space blocks.
 10. **Inverted Half Pyramid with Numbers:** A downward-facing right triangle where elements are represented by incrementing column counts.
+11. **Number Pyramid:** A pyramid where each row consists of the current row number repeated, separated by spaces.
+12. **Palindromic Number Pyramid:** A palindromic number pyramid that decreases down to 1 and then increases back up on each row.
+13. **Plus Pattern:** A star (`*`) plus sign pattern, centered based on the user's input size.
 
 ---
 
